@@ -21,3 +21,5 @@ The current laws were written for the era of the floppy disk, not the world of t
 
 ICPA provides sensible ways for cross-border data access, including a robust legal process to access the email of Americans and notification of foreign countries, when required under international law. Without these important clarifications, technology companies, law enforcement and the courts will continue to interpret and apply a law to technologies and circumstances far beyond what Congressional leaders envisioned in 1986.
 
+https://blogs.microsoft.com/on-the-issues/2017/10/16/us-supreme-court-will-hear-petition-to-review-microsoft-search-warrant-case-while-momentum-to-modernize-the-law-continues-in-congress/
+
